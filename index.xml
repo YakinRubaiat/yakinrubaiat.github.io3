@@ -6,10 +6,31 @@
     <description>Recent content on Yakin Rubaiat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yakinrubaiat.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://yakinrubaiat.github.io/about/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yakinrubaiat.github.io/about/</guid>
+      <description>Download resume
+Explorable Explanations, I&amp;rsquo;m a undergrad student of Patukhali Science and Technology University. It&amp;rsquo;s my ex­cuse for toy­ing around with new ideas and prac­tic­ing the craft of reading. Currently working and interested in Human neuroscience, Machine Learning, Deep learning and &amp;hellip;..
+ I have to un­der­stand the world, you see. — Richard Feynman
+ I&amp;rsquo;m always on the lookout for exciting opportunities to apply and expand knowledge. In addition, I&amp;rsquo;m passionate about paying it forward through outreach, mentorship, and pro bono work.</description>
+    </item>
+    
+    <item>
+      <title>Report On Pima Indian Diabetes Dataset</title>
+      <link>https://yakinrubaiat.github.io/projects/report-on-pima-indian-diabetes/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yakinrubaiat.github.io/projects/report-on-pima-indian-diabetes/</guid>
+      <description>1. Abstract In this study, we have proposed an analysis of different method based on a neural network for predicting type 2 diabetes mellitus (T2DM). The main problems that we are trying to solve are to find which type of model works best for predicting diabetes. The analysis is comprised of two parts, by applying data-recovery with the neural network and by applying k-means with the neural network. The consultation shows that why some model is good at predicting diabetes and is it computationally expensive or not.</description>
+    </item>
     
     <item>
       <title>A small project example : add yours !</title>
@@ -29,27 +50,6 @@
       
       <guid>https://yakinrubaiat.github.io/blog/example-article/</guid>
       <description>Text This is some text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pretium at ipsum eu pharetra. Proin ac ante et leo ultrices bibendum. Vivamus id ipsum fermentum, aliquam nunc mollis, tempus sapien. Praesent scelerisque cursus eros vitae pretium. Etiam sit amet ligula in leo euismod malesuada. Proin eleifend pulvinar ipsum, eu lobortis ante pharetra eu. Vivamus sem elit, venenatis eget ornare nec, ullamcorper non tellus. Duis quis massa finibus, euismod erat quis, fermentum nunc.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://yakinrubaiat.github.io/about/</link>
-      <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://yakinrubaiat.github.io/about/</guid>
-      <description>Explorable Explanations, I&amp;rsquo;m a undergrad student of Patukhali Science and Technology University. It&amp;rsquo;s my ex­cuse for toy­ing around with new ideas and prac­tic­ing the craft of reading. Currently working and interested in Human psychology, Machine Learning, Deep learning, Machine vision, Neuroscience&amp;hellip;..
- I have to un­der­stand the world, you see. — Richard Feynman
- I&amp;rsquo;m always on the lookout for exciting opportunities to apply and expand my data science skills. In addition, I&amp;rsquo;m passionate about paying it forward through outreach, mentorship, and pro bono work.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://yakinrubaiat.github.io/projects/projects/</link>
-      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
-      
-      <guid>https://yakinrubaiat.github.io/projects/projects/</guid>
-      <description>In this theme, it is possible to add sections like a Projects one for example. You can add plenty of articles about your projects and a presentation page that will be displayed before the list. All is modulable, if you don&amp;rsquo;t want something.
-A Hollywood-funded film version, produced and filmed in the UK, was released in April 2005, and radio adaptations of the third, fourth, and fifth novels were broadcast from 2004 to 2005.</description>
     </item>
     
     <item>
